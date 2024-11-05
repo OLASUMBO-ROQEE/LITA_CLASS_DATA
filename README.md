@@ -4,7 +4,7 @@ This project is one of the dataset i worked on while  learning Data Analysis usi
 
 ### Project Overview
 ---
-This Data Analysis prpoject aims to generate insight into the Attrition count of the Incubator Data Analysis Tracker overview and seeks to gather enough insights to make reasonable decisions which will enable us tell compelling stories about the data.
+This Data Analysis project aims to generate insight into the Attrition count of the Incubator Data Analysis Tracker overview and seeks to gather enough insights to make reasonable decisions which will enable us tell compelling stories about the data.
 
 ### Data Sources
 ---
